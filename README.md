@@ -44,3 +44,9 @@ O curso enfatiza a importância da prática e aplicação dos conceitos para tra
 
 - Certificado - https://euprogramo.thinkific.com/certificates/wg50f6iqc3
 
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/96609eb1-e3b8-4e46-8a2b-acfbd50f646" />
+</div>
+
+![image](https://github.com/user-attachments/assets/96609eb1-e3b8-4e46-8a2b-acfbd50f6468)

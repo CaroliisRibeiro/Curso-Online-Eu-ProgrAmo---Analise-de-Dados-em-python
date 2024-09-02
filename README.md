@@ -1,4 +1,6 @@
-![img-aa80fa8c69ff0cc2](https://github.com/user-attachments/assets/de2a8dc2-4859-4ff6-963b-3c861ca5e4d3)
+div align="center"
+img src="![img-aa80fa8c69ff0cc2](https://github.com/user-attachments/assets/de2a8dc2-4859-4ff6-963b-3c861ca5e4d3)" /
+/div
 
 
 

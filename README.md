@@ -46,7 +46,5 @@ O curso enfatiza a importância da prática e aplicação dos conceitos para tra
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/96609eb1-e3b8-4e46-8a2b-acfbd50f646" />
+<img src="https://github.com/user-attachments/assets/7e05a7cc-1ae3-4212-bc75-c0800f826938" />
 </div>
-
-![image](https://github.com/user-attachments/assets/96609eb1-e3b8-4e46-8a2b-acfbd50f6468)

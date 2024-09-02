@@ -42,7 +42,25 @@ O curso enfatiza a importância da prática e aplicação dos conceitos para tra
 
 - Relatório Visualização dados Programaria - https://lookerstudio.google.com/reporting/7aed7cbb-d821-4a0b-a201-793bd953edb0
 
-- Certificado - https://euprogramo.thinkific.com/certificates/wg50f6iqc3
+   <span align="center">
+
+ 
+
+</span>
+
+
+
+ <span align="center">
+
+   ###  🔍📊📈📉🔎 Certificado - https://euprogramo.thinkific.com/certificates/wg50f6iqc  🔍📊📈📉🔎
+
+</span>
+
+
+   <span align="center">
+
+ 
+</span>
 
 
 <div align="center">

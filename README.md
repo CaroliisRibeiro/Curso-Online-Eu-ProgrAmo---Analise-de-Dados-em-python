@@ -14,3 +14,6 @@
   
 O curso enfatiza a importância da prática e aplicação dos conceitos para transformar dados em informações úteis.
 
+
+
+
